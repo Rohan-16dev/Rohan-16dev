@@ -1,4 +1,8 @@
-## Hi there 👋
+Hello Everyone!
+<br> 
+I am Rohan, a student passionate about coding, programming and open source projects.
+<br> 
+I hope to learn continuously and create an impact around the world by acquiring adequate skills here!
 
 <!--
 **Rohan-16dev/Rohan-16dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
